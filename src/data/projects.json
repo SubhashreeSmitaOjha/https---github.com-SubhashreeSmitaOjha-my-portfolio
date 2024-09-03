@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a Note App ,here you can write smothing ,delete it and store it on the page.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://quiznote-app.netlify.app/",
+    "source": "https://github.com/SubhashreeSmitaOjha/QuizNote-App"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a E-Commerece Website.Here you can check products details.",
+    "skills": ["React", "HTML", "CSS", "JS","Node"],
+    "demo": "https://multimart-eshop.netlify.app/",
+  
+    "source": "https://github.com/SubhashreeSmitaOjha/https---github.com-SubhashreeSmitaOjha-multimart"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a Organic-Farming project,here you can search for any farming procedure.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "organicfarmingwebsite.netlify.app",
+    "source": "https://github.com/SubhashreeSmitaOjha/final-project"
+  }
+]

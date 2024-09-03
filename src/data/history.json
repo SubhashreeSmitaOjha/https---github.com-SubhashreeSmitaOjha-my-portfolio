@@ -1,0 +1,28 @@
+[
+  {
+    "role": "web Development Course",
+    "organisation": "Neet Foundation",
+    "startDate": "march, 2021",
+    "endDate": "may, 2021",
+    "experiences": ["HTML,CSS,JS with Project"],
+    "imageSrc": "history/niit.png"
+  },
+  {
+    "role": "React JS",
+    "organisation": "Great Learning",
+    "startDate": "May, 2024",
+    "endDate": "August, 2024",
+    "experiences": ["Developed E-Commerece Project"],
+    "imageSrc": "history/gl.png"
+  },
+  {
+    "role": "PHP Developer",
+    "organisation": "Web-Bocket",
+    "startDate": "November, 2023",
+    "endDate": "February, 2024",
+    "experiences": [
+      "Developed basic Project"
+    ],
+    "imageSrc": "history/wb.png"
+  }
+]
